@@ -1,6 +1,5 @@
 # IP Sniffer
-
-IP Sniffer is a Rust-based tool designed to scan and identify open ports on a given IP address. It supports multithreading for faster scanning and provides a simple command-line interface.
+My basic implementation of ip sniffer in Rust
 
 ## Features
 
