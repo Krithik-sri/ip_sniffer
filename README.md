@@ -30,3 +30,6 @@ cargo run -- <arguments>
 
 ### Example
 This command scans the IP address 192.168.1.1 using 4 threads.
+```sh
+cargo run -- -j 4 192.168.1.1
+```
