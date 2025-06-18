@@ -26,8 +26,8 @@ cargo run -- <arguments>
 ```
 
 ### Command-Line Arguments
- -j <number>: Specify the number of threads to use for scanning.
- -h or -help: Display usage instructions.
+- -j <number>: Specify the number of threads to use for scanning.
+- -h or -help: Display usage instructions.
 
 ### Example
 This command scans the IP address 192.168.1.1 using 4 threads.
